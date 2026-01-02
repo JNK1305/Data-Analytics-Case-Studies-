@@ -1,0 +1,101 @@
+Country,Year,Food Category,Total Waste (Thousand Tonnes),Economic Loss (Million USD),Population (Million)
+France,2021,Prepared Foods,13254.57,47662.7,837.61
+Pakistan,2024,Dairy Products,25666.2,22687.68,204.3
+USA,2023,Prepared Foods,48645.94,50616.79,301.21
+India,2021,Grains & Cereals,28614.04,28188.92,411.26
+Australia,2021,Meat & Seafood,21486.28,29539.92,1100.32
+Pakistan,2021,Meat & Seafood,31658.66,6601.22,852.53
+Canada,2024,Grains & Cereals,47699.85,58075.39,1132.71
+Canada,2019,Prepared Foods,15390.22,17497.43,958.15
+Spain,2022,Dairy Products,45919.42,18491.68,929.22
+China,2023,Frozen Foods,14357.37,35791.22,48.68
+Bangladesh,2019,Meat & Seafood,47277.45,54110.33,839.07
+Nigeria,2024,Frozen Foods,13819.23,6532.73,458.84
+Nigeria,2022,Grains & Cereals,29286.15,36858.07,1351.53
+Mexico,2018,Prepared Foods,41098.86,8174.84,1381.71
+India,2021,Dairy Products,13947.91,43835.15,1107.29
+Germany,2019,Grains & Cereals,10214.11,52333.79,874.5
+China,2018,Frozen Foods,19633.25,44857.95,894.39
+USA,2018,Dairy Products,10381.74,43941.71,1066.3
+Russia,2024,Dairy Products,28522.98,27942.3,40.46
+Mexico,2020,Fruits & Vegetables,19146.02,32479.96,1271.06
+France,2022,Dairy Products,14137.76,56799.8,840.42
+Pakistan,2023,Meat & Seafood,46836.39,49254.74,888.6
+UK,2021,Meat & Seafood,14829.82,27324.56,1237.18
+France,2023,Fruits & Vegetables,17245.95,40270.65,5.73
+Mexico,2018,Dairy Products,5312.85,32601.85,587.29
+Germany,2018,Dairy Products,17123.56,17671.03,239.77
+Canada,2021,Fruits & Vegetables,7920.15,18219.26,349.39
+France,2019,Dairy Products,18539.52,19951.07,56.46
+Indonesia,2019,Grains & Cereals,23496.67,5850.84,486.37
+India,2020,Frozen Foods,11520.27,31409.35,1379.98
+Brazil,2024,Dairy Products,21634.45,17560.96,1125.38
+Germany,2021,Grains & Cereals,33508.84,34003.38,130.95
+India,2018,Meat & Seafood,27868.94,42965.52,1202.41
+Brazil,2020,Grains & Cereals,28044.19,16683.76,905.02
+Vietnam,2018,Fruits & Vegetables,22890.74,32994.08,1173.61
+Italy,2021,Fruits & Vegetables,10106.31,55782.84,1228.89
+USA,2024,Meat & Seafood,12872.97,59001.43,725.71
+Indonesia,2019,Fruits & Vegetables,9189.62,54244.08,1261.08
+Canada,2018,Dairy Products,36516.1,51413.02,1199.57
+India,2021,Dairy Products,47103.57,47979.08,938.24
+USA,2023,Fruits & Vegetables,34857.58,4283.45,229.33
+Bangladesh,2019,Frozen Foods,25179.09,59689.62,250.42
+Brazil,2018,Frozen Foods,19642.99,45803.52,911.24
+France,2020,Fruits & Vegetables,18862.74,34382.25,714.8
+Russia,2023,Frozen Foods,49050.18,31257.56,1269.01
+China,2022,Frozen Foods,34029.65,41459.75,1210.51
+Nigeria,2020,Meat & Seafood,6094.22,40146.45,252.07
+Russia,2022,Frozen Foods,21657.14,4865.57,1300.0
+Indonesia,2023,Prepared Foods,30753.16,58898.57,110.11
+India,2020,Grains & Cereals,30056.06,56424.67,975.96
+Japan,2023,Grains & Cereals,32675.33,59443.02,200.42
+Australia,2019,Grains & Cereals,38334.59,43032.88,984.97
+Nigeria,2024,Prepared Foods,18342.96,27507.73,362.41
+Mexico,2021,Grains & Cereals,5233.32,39162.09,276.01
+Japan,2023,Frozen Foods,45050.24,22927.73,528.94
+China,2024,Frozen Foods,19766.87,12682.33,1374.67
+Indonesia,2021,Grains & Cereals,42017.03,24170.68,182.25
+India,2022,Meat & Seafood,14711.95,38881.87,124.06
+Mexico,2021,Frozen Foods,29328.58,39696.07,1017.9
+Mexico,2019,Meat & Seafood,37156.78,6299.78,561.36
+Pakistan,2021,Grains & Cereals,8530.54,5419.64,1347.89
+Canada,2021,Prepared Foods,7618.71,55251.97,622.08
+Nigeria,2018,Prepared Foods,17597.03,57472.46,1034.37
+Germany,2023,Prepared Foods,23882.0,17872.94,501.58
+Germany,2023,Fruits & Vegetables,20384.59,9140.75,136.35
+Russia,2023,Meat & Seafood,12889.86,4961.02,1069.89
+France,2021,Fruits & Vegetables,25910.32,40387.33,72.04
+Germany,2021,Grains & Cereals,16740.21,4857.05,1307.14
+India,2022,Prepared Foods,12332.05,7951.85,901.17
+Indonesia,2021,Dairy Products,41042.72,41921.43,804.85
+India,2018,Prepared Foods,29552.76,56722.03,543.61
+India,2019,Dairy Products,13810.6,7884.23,145.59
+China,2022,Dairy Products,32821.42,22847.04,919.73
+Australia,2019,Frozen Foods,41651.08,19783.87,169.84
+Bangladesh,2022,Dairy Products,44486.24,45163.98,1125.86
+Brazil,2019,Prepared Foods,38777.66,49182.75,1386.75
+Nigeria,2021,Grains & Cereals,16250.74,36510.46,1214.63
+Germany,2021,Fruits & Vegetables,35593.02,45434.89,337.34
+Indonesia,2018,Frozen Foods,27345.25,25818.61,420.2
+Pakistan,2018,Meat & Seafood,5487.69,54701.39,132.34
+France,2021,Frozen Foods,35454.65,31021.17,692.77
+Nigeria,2022,Prepared Foods,18194.48,22405.21,943.16
+Brazil,2022,Fruits & Vegetables,10105.91,56132.03,1364.08
+Russia,2024,Grains & Cereals,24868.87,53711.43,494.53
+Bangladesh,2024,Meat & Seafood,35961.35,50869.98,1214.28
+UK,2024,Frozen Foods,36543.61,8074.73,1151.49
+China,2022,Prepared Foods,8817.7,59251.82,527.11
+India,2023,Meat & Seafood,15650.83,54830.85,830.68
+Brazil,2023,Meat & Seafood,8757.53,47520.23,783.97
+Australia,2019,Dairy Products,10003.89,31587.01,20.84
+Vietnam,2021,Prepared Foods,42025.57,45675.85,955.05
+Indonesia,2018,Fruits & Vegetables,15061.81,57940.46,21.96
+Mexico,2022,Prepared Foods,6953.04,55780.03,1287.17
+Brazil,2020,Dairy Products,48618.61,33293.48,883.01
+Russia,2024,Fruits & Vegetables,33240.11,36721.6,1262.12
+Italy,2021,Grains & Cereals,47768.52,53854.77,640.64
+Japan,2019,Meat & Seafood,34108.18,25743.03,325.01
+Germany,2018,Meat & Seafood,49379.48,43097.06,752.85
+India,2022,Meat & Seafood,32125.18,19173.63,190.79
+USA,2022,Frozen Foods,47741.0,44640.29,860.71
