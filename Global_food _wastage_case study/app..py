@@ -12,7 +12,7 @@ st.title("🥗🍔 Global Food Waste Analytics & Insights")
 st.caption("From data to insights → prediction → real-world action")
 
 
-df = pd.read_csv("C:\\Users\\jidny\\OneDrive\\Desktop\\DSML\\Global_food _wastage_case study\\global_food_waste.csv")
+df = pd.read_csv("global_food_waste.csv")
 
 
 df["Waste per Million Population"] = (
@@ -102,12 +102,13 @@ with tab1:
 
     yearly_waste = filtered_df.groupby("Year")["Total Waste (Thousand Tonnes)"].sum()
 
+    fig, ax = plt.subplots(figsize=(4, 2))
     fig, ax = plt.subplots()
     ax.plot(yearly_waste.index, yearly_waste.values, marker="o")
-    size = yearly_waste.values / 1000  # Scale for visibility
     ax.set_xlabel("Year")
     ax.set_ylabel("Waste (Thousand Tonnes)")
     st.pyplot(fig)
+    
 
     st.info("""
     **What we understand from this:**
